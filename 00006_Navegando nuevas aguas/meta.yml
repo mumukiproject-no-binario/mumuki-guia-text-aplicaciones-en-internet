@@ -1,0 +1,34 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Microsoft Edge
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Safari
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Google
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Google Chrome
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Skype
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Mozilla Firefox
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Microsoft Outlook
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Minecraft
+  checked: false
+name: Navegando nuevas aguas

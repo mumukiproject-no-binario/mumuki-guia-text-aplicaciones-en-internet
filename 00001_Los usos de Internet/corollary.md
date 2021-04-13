@@ -1,0 +1,1 @@
+¡Perfecto! Todos estos son posibles usos de Internet y por supuesto ¡hay muchos más :smirk:! Cada uno está asociado a protocolos y estándares que lo regulan. :cop: 

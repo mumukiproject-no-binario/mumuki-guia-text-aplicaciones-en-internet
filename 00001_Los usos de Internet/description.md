@@ -1,0 +1,3 @@
+Ya vimos que Internet son millones de computadoras en red enviándose información. Pero…
+ 
+> ¿Qué cosas podemos hacer gracias a Internet?

@@ -1,0 +1,25 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Un servidor respondiendo pedidos de un cliente
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Un servidor respondiendo pedidos de múltiples clientes
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Muchos servidores respondiendo pedidos de un solo cliente
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Todos los anteriores
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ninguno de los anteriores
+  checked: false
+name: El cliente siempre tiene la razón
